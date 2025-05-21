@@ -1,3 +1,5 @@
 return {
-  "linrongbin16/lsp-progress.nvim",
+  {
+    "linrongbin16/lsp-progress.nvim",
+  },
 }
