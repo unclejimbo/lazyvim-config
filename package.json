@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonls": "^0.0.4",
+    "pyright": "^1.1.402"
+  }
+}

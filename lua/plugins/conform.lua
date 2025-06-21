@@ -7,6 +7,8 @@ return {
         cpp = { "clang_format" },
         objc = { "clang_format" },
         glsl = { "clang_format" },
+        hlsl = { "clang_format" },
+        slang = { "clang_format" },
         json = { "jq" },
         lua = { "stylua" },
         python = { "isort", "black" },
